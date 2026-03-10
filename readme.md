@@ -19,4 +19,4 @@ The spread operator (three dots) is used to unpack or spread out elements from a
 An arrow function is a shorter and more modern way to write functions in JavaScript using the `=>` syntax. It's cleaner than the traditional `function` keyword and handles the `this` context differently, which is great for callbacks.
 
 **5. What are template literals?**
-Template literals are strings written with backticks (``) instead of quotes. They allow us to use multi-line strings easily and inject variables directly inside the string using the `${variable}` syntax.
+Template literals are strings written with backticks (``) instead of quotes. They allow us to use multi-line strings easily and inject variables directly inside the string using the `${variable}`  syntax.
